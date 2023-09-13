@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These colors were defined for consistency purposes -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#7430ED</color>
+
+    <!--These colors were added for additional changes to be made in the future
+    -->
+    <color name="cyan">#00FFFF</color>
+    <color name="green">#00FF00</color>
+
+</resources>
