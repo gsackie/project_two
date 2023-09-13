@@ -17,6 +17,7 @@ The following required functionality is completed:
 
 ## Video Walkthrough
 
+https://indiana-my.sharepoint.com/:i:/r/personal/gsackie_iu_edu/Documents/Transcript-Application-Landscape.gif?csf=1&web=1&e=eOukBe
 
 ## Notes
 
